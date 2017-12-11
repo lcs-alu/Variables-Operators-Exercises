@@ -35,8 +35,8 @@
  
  */
 // Answer Question 1 below
-let firstName = "alisa"
-let lastName = "lu"
+let firstName = "Alisa"
+let lastName = "Lu"
 var currentGrade = 10
 let novemberReportCardGrade = 93
 
@@ -72,8 +72,11 @@ let personFavouriteHobby = "swimming"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-let name = "alisa"
+let name = "Alisa"
 print(name)
+var varName = "Alisa"
+varName = Alisa
+print(varName)
 /*:
  ### Question 5
  
