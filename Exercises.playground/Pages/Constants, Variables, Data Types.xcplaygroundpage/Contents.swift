@@ -35,6 +35,11 @@
  
  */
 // Answer Question 1 below
+let firstName = "alisa"
+let lastName = "lu"
+var currentGrade = 10
+let novemberReportCardGrade = 93
+
 
 /*:
  ### Question 2
@@ -47,7 +52,9 @@
  
  */
 // Answer Question 2 below
-
+var myAge : Int = 15
+let otherAge : Double = 40
+let averageAge : Double = (Double(myAge) + otherAge )/2
 
 /*:
  ### Question 3
@@ -55,7 +62,7 @@
  Create a variable that will track a person's favourite hobby. Select whatever name you feel is appropriate, but use the camel case convention when you name this constant.
  */
 // Answer Question 3 below
-
+let personFavouriteHobby = "swimming"
 
 /*:
  ### Question 4
@@ -65,8 +72,8 @@
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
-
-
+let name = "alisa"
+print(name)
 /*:
  ### Question 5
  
