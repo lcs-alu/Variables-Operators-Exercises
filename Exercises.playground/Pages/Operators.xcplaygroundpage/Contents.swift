@@ -43,7 +43,17 @@
  
  */
 // Answer Question 1 below
-
+// Part 1
+var partTimeJobEarnings : Double
+partTimeJobEarnings = 22.50 * 0.5
+// Part 2
+partTimeJobEarnings += 20
+// Part 3
+partTimeJobEarnings /= 2
+// Part 4
+partTimeJobEarnings += 25 * 4
+// Part 5
+partTimeJobEarnings -= 15
 
 /*:
 ### Question 2
@@ -55,7 +65,7 @@
 */
 // Answer Question 2 below
 6 + 4 * 5 - 2
-
+6 + 4 * (5 - 2)
 
 
 //: [Next](@next)

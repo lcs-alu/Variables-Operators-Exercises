@@ -53,7 +53,7 @@ let novemberReportCardGrade = 93
  */
 // Answer Question 2 below
 var myAge : Int = 15
-let otherAge : Double = 40
+let otherAge : Double = 40.0
 let averageAge : Double = (Double(myAge) + otherAge )/2
 
 /*:
@@ -72,6 +72,8 @@ let personFavouriteHobby = "swimming"
  Use multiple `print` statements below to answer this question.
  */
 // Answer Question 4 below
+// Optimizing
+// Checking when error
 let name = "Alisa"
 print(name)
 var varName = "Alisa"
@@ -85,7 +87,7 @@ print(varName)
  
  */
 // Answer Question 5 below
-let randomDemand = 1000000
+let randomDemand = 1_000_000
 /*:
  ### Question 6
  
@@ -106,7 +108,7 @@ let randomDemand = 1000000
  */
 // Answer Question 6 below
 var year = 2017
-
+let name = "year"
 
 /*:
  ### Question 7
@@ -116,7 +118,7 @@ var year = 2017
  Use multiple `print` statements below to explain.
  */
 // Answer Question 7 below
-
+print("Type-safe languages encourage or require you to be clear about the types of values your code can work with.“For example, if part of your code expects an Int, you can't pass it a Double or a String.")
 
 
 
