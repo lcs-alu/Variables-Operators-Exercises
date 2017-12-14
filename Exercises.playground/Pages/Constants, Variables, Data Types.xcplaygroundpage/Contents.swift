@@ -75,7 +75,6 @@ let personFavouriteHobby = "swimming"
 let name = "Alisa"
 print(name)
 var varName = "Alisa"
-varName = Alisa
 print(varName)
 /*:
  ### Question 5
@@ -86,7 +85,7 @@ print(varName)
  
  */
 // Answer Question 5 below
-
+let randomDemand = 1000000
 /*:
  ### Question 6
  
@@ -106,6 +105,7 @@ print(varName)
  
  */
 // Answer Question 6 below
+var year = 2017
 
 
 /*:
